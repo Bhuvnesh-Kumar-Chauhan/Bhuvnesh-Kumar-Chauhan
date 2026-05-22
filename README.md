@@ -76,4 +76,4 @@
 ## 🎓 Education
 
 - **MCA** – Graphic Era Hill University, Dehradun (2021–2023)
-- **BCS** – Gurukula Kangri University, Haridwar (2017–2020)
+- **BSC** – Gurukula Kangri University, Haridwar (2017–2020)
