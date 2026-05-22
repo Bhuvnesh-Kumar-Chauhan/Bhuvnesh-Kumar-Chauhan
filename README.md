@@ -66,9 +66,6 @@
   <a href="mailto:bhuvneshchauhan080808@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
-  <a href="https://github.com/Bhuvnesh-Kumar-Chauhan">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
-  </a>
 </p>
 
 ---
